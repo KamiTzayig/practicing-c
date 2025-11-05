@@ -5,7 +5,6 @@
 
 
 int main(){
-Person p1;
 int persons_count = 0;
 printf("how many people do you want to create?\n");
 scanf("%d", &persons_count);
